@@ -19,6 +19,6 @@ We also provide some intermediate results for quickly implementation and verific
 * [百度网盘](https://pan.baidu.com/s/19VUOsrDJdIZ6dAGs2sZIGg, "Metafgnet")
 * [Google Drive](https://drive.google.com/drive/folders/1mSMcQz2jOA9I0Ydn3-b6lmBkYmlKh-6n?usp=sharing, "Metafgnet")
 
-This code is completed with the cooperation of [Hui Tang](https://github.com/huitangtang/, "HuiTang")
+This code is completed with the cooperation of [Hui Tang](https://github.com/huitangtang)
 
 If you have any questions, feel free to contact me at: zhang.yabin@mail.scut.edu.cn.
