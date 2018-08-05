@@ -21,4 +21,6 @@ We also provide some intermediate results for quickly implementation and verific
 
 This code is completed with the cooperation of [Hui Tang](https://github.com/huitangtang)
 
+We provide a supplementary material to demonstrate how to evaluate the gradient of meta-learning loss at [Gradient for Meta-Learning Loss](https://github.com/YabinZhang1994/MetaFGNet/blob/maste/MetaFGNet:Calculation_of_Gradient_for_Meta_Learning_Loss.pdf)
+
 If you have any questions, feel free to contact me at: zhang.yabin@mail.scut.edu.cn.
