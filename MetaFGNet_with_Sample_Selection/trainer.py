@@ -212,7 +212,7 @@ def train(train_loader_source, train_loader_source_batch, train_loader_target, t
         param.grad.data = temp_grad
         count = count + 1
     optimizer.step()
-    
+    optimizer.zero_grad()
     if train_loader_source:  ## The gradient corresponding to the regularization loss
         count = 0
         for param in model_source.parameters():
